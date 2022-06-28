@@ -1,4 +1,4 @@
-# Pancake Contracts 🥞
+# 1ech Contracts 🥞
 
 This repo contains all the contracts used in PancakeSwap. It is divided in independent projects where each of them contains its smart contracts, test environment and unique config files.
 
